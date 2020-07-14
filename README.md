@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di E-Kas! 👋</h1>
 
-![lol](screely-1594730019713](https://user-images.githubusercontent.com/46257169/87426751-e2c83b80-c609-11ea-864a-151e3626bf7d.png)
+![lol](https://user-images.githubusercontent.com/46257169/87426751-e2c83b80-c609-11ea-864a-151e3626bf7d.png)
 
 
 
@@ -9,107 +9,83 @@
 
 
 ### 🤔 Apa itu E-Kas?
-Web Tabungan Open Source yang dibuat oleh <a href="https://github.com/Syauqizaidan"> Fery </a> . **E-Kas Merupakan Website Tabungan yang mengelola Kas kelas tiap siswa yang dibuat dengan Framework Laravel ** E-Kas dibuat agar Uang kas lebih terlihat transparan dan dapat terorganisasi dengan rapih.
+Web Tabungan Open Source yang dibuat oleh <a href="https://github.com/Syauqizaidan"> Fery </a> . **E-Kas Merupakan Website Tabungan yang mengelola Kas kelas tiap siswa yang dibuat dengan Framework Laravel** E-Kas dibuat agar Uang kas lebih terlihat transparan dan dapat terorganisasi dengan rapih.
 
 ### 🎉 Kenapa dibuat Open Source?
-Saya buat Open Souce karena semoga ada orang yang terbantu oleh aplikasi yang saya buat.
+Saya buat Open Souce karena semoga ada orang yang terbantu oleh aplikasi yang saya buat. Sekaligus membuat aplikasi yang berguna bagi sekolah sekolah agar uang Kas nya menjadi lebih teroragnisir dan transparan.
 
 ### 🤨 Fitur apa saja yang tersedia di learnify?
-- Student Login System.
-- Student Registration w/ email verification ( Bisa diaktifkan, Message atau email saya saja untuk mengaktifkan nya )
-- Disqus Comment Every Lesson make it more interactive !
-- Email Verification System.
-- Student Data Management.
-- Teacher Data Management.
-- Lesson Data Management.
-- Administrator Page for Data Management ( Students, Lesson and Teacher Data )
-- Student Page for learning.
-- Teacher Page for uploading a lesson.
-- Fancy Animations!
-- Well designed admin page customized stisla.
-- Tersedia lima mapel | Matematika, IPA, Bahasa Inggris, Bahasa Indonesia, Pendidikan agama islam .
+- Login System
+- Registration System
+- Admin Dashboard
+- Tambah Tranksaksi
+- Riwayat Tranksaksi
+- Data Kelas
+- Data Siswa.
+- Data Tabungan
 - Dan masih banyak lagi !
 
-### 🏠 <a href="http://syauqi.js.org/">Homepage</a>
-**Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
+### ✨ <a href="https://tabungan.feryxz.com/">Demo</a>
+Demo telah saya hosting di https://tabungan.feryxz.com/, Silahkan coba ya teman teman. Jika kalian ingin membuat dan memodifikasi nya tinggal fork repository ini. Jangan lupa untuk memberikan stars dan follow github saya ya!
 
-### ✨ <a href="http://syauqi.js.org/">Demo</a>
-**Demo sementara ini belum saya hosting. Dikarenakan project ini masih beta dan dana yang kurang.** Kalian cukup fork lalu clone dan jalankan di localhost saja ya! atau kalian bisa download project ini via github apabila kalian belum familiar dengan github.
+### 📆 <a href="#">Release Date</a>
+**Release date : 2 July 2020
+**
 
-### 📆 <a href="http://syauqi.js.org/">Release Date</a>
-**Release date : 1 April 2020
-Version 1 Release : 17 April 2020**
-> Learnify dapat kalian kembangkan lagi sesuai kebutuhan kalian. Untuk sementara ini, Learnify tidak akan saya kembangkan. Namun jika kalian ingin berkontribusi saya akan mereview nya !
 
 ------------
 
 
  ### 👤 Default Account for testing
-	
-**Admin Default Account**
-- Email : admin@gmail.com 
-- Password : admin
-
-**Students Default Account**
-- Email : zaidanline67@gmail.com
-- Password : 123456
-
-**Teacher Default Account**
-- Email : zaidanline67@gmail.com
-- Password : 123456
+> Kalian tinggal bikin akun baru di login form. Kemudian, Login menggunakan email dan password yang sudah kalian daftarkan.
 
 ------------
 
 
 ### 🧐 Prasyarat yang diperlukan 
-- Versi PHP7 ke atas dikarenakan saya memakai function dari PHP7
-- Internet ( Karena saya memakai CDN Bootstrap )
-- XAMPP ( Atau apps web server lain )
-- Setting max_upload di php.ini
-- Setting post_max di php.ini
-- Web Browser
+- 
+- 
+- 
+- 
+- 
+- 
 
 
 ## 💻 Install
-- Download learnify atau fork lalu clone di computer kalian.
-- Upload database " Learnify.sql " ke dbms favourite kalian.
-- Jalankan di web browser ( Chrome, Firefox, Edge, Safari )
-- Selamat Menikmati !
+- 
+- 
+- 
+- 
 
 ## 🧑 Author
 
-👤 <a href="https://web.facebook.com/zaidan.syauqi.9"> **Syaauqi Zaaidan Khairan Khalaf**</a>
-- Twitter : <a href="https://twitter.com/syauqykhairan"> @syauqykhairan</a>
-- Facebook : <a href="https://web.facebook.com/zaidan.syauqi.9"> Syauqi Zaidan Khairan Khalaf</a>
-- Instagram : <a href="https://www.instagram.com/syaufy/">@syaufy </a>
-- Dribbble : <a href="https://dribbble.com/syauqyzaidan">@syauqyzaidan </a>
-- Behance :  <a href="https://www.behance.net/syaauqizaaidan">@syaauqizaaidan </a>
+👤 <a href="https://www.facebook.com/feryxz.id"> **Fery**</a>
+- Facebook : <a href="https://www.facebook.com/feryxz.id"> Feryxz</a>
+- Instagram : <a href="https://www.instagram.com/feryxz/">@Feryxz </a>
+- Dribbble : <a href="https://dribbble.com/feryxz">@Feryxz </a>
+- Behance :  <a href="https://www.behance.net/user/?username=feryxzdeveloper">@Feryxz </a>
 
 ## 🤝 Contributing
 Contributions, issues and feature requests di persilahkan.
 Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Berhubung Project ini saya sudah selesaikan sendiri, namun banyak fitur yang kalian dapat tambahkan silahkan berkontribusi yaa!**
 
 ## 💙 Thanks to
-- Allah SWT  😇
-- Family 🤗
+- 
+- 
 - Devover 🤩
-- Colorlib.com 😬
-- Nauval Azhar 🥰
-- Kalian yang support Learnify 😚
+- 
+- 
+- 
 
 
 ## 📝 License
-- Copyright © 2020 Syauqi Zaidan Khairan Khalaf.
-- **Learnify is open-sourced software licensed under the MIT license.**
+- Copyright © 2020 Feryxz
+- **E-KAS is open-sourced software licensed under the MIT license.**
 
-## 🎥 Video Source
-**Thanks to youtube dan para uploader video yang ada di learnify yang bersedia untuk menjadi data default bagi project ini.**
-https://pastebin.pl/view/c3608c25
 
 ------------
 
-- Terima kasih atas support nya semua!
-- Copyright © 2020 Syauqi Zaidan Khairan Khalaf.
-- **Made with ❤️ by Syauqi Zaidan Khairan Khalaf .**
-- Learnify is open-sourced software licensed under the MIT license.
+
+- **Made with ❤️ by Feryxz .**
+
 
