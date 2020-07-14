@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di E-Kas! 👋</h1>
 
-![screely-1591521897512](screely-1594730019713](https://user-images.githubusercontent.com/46257169/87426751-e2c83b80-c609-11ea-864a-151e3626bf7d.png)
+![lol](screely-1594730019713](https://user-images.githubusercontent.com/46257169/87426751-e2c83b80-c609-11ea-864a-151e3626bf7d.png)
 
 
 
